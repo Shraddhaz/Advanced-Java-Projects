@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.3.5" timestamp="2017-07-17T13:39:28.292">
+<file name="/Users/shraddhazingade/Desktop/Studies/Advanced Programming in Java/Projects/Project-1/airline/src/main/java/edu/pdx/cs410J/shraddha/Project1.java">
+<violation beginline="31" endline="31" begincolumn="19" endcolumn="34" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="31" endline="31" begincolumn="41" endcolumn="73" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="33" endline="33" begincolumn="19" endcolumn="34" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="33" endline="33" begincolumn="42" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="33" endline="33" begincolumn="66" endcolumn="82" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="35" endline="35" begincolumn="19" endcolumn="33" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="35" endline="35" begincolumn="41" endcolumn="74" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="35" endline="35" begincolumn="81" endcolumn="114" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="38" endline="38" begincolumn="19" endcolumn="33" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="38" endline="38" begincolumn="40" endcolumn="72" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="38" endline="38" begincolumn="79" endcolumn="93" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="41" endline="41" begincolumn="17" endcolumn="31" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="41" endline="41" begincolumn="38" endcolumn="71" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="41" endline="41" begincolumn="78" endcolumn="92" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="44" endline="44" begincolumn="16" endcolumn="69" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="44" endline="44" begincolumn="36" endcolumn="68" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="44" endline="44" begincolumn="76" endcolumn="130" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="44" endline="44" begincolumn="77" endcolumn="89" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="44" endline="44" begincolumn="96" endcolumn="129" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="47" endline="47" begincolumn="36" endcolumn="68" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="47" endline="47" begincolumn="75" endcolumn="90" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="150" endline="150" begincolumn="24" endcolumn="65" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="isDateValid" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="174" endline="174" begincolumn="24" endcolumn="56" rule="UselessParentheses" ruleset="Unnecessary" package="edu.pdx.cs410J.shraddha" class="Project1" method="isTimeValid" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+</pmd>
